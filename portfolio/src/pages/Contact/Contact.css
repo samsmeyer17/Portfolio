@@ -1,0 +1,40 @@
+.main-container {
+  margin: 0;
+}
+
+.header {
+  margin: auto;
+  clear: both;
+}
+
+h2 {
+  float: left;
+  margin: 30px 10px 30px 0;
+}
+
+.card {
+  background: lightgrey;
+  clear: both;
+}
+
+.contact-type {
+  color: maroon;
+  clear: both;
+}
+
+.contact-name {
+  color: black;
+  float: left;
+}
+
+.phone {
+  margin-top: 20px;
+}
+
+.phone-content {
+  margin: 0 0 20px 0;
+}
+
+.email-content {
+  margin: 0 0 20px 0;
+}

@@ -1,0 +1,18 @@
+nav {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 0;
+  background-color: maroon;
+  border: darkgrey thick 10px;
+  color: darkblue;
+}
+
+.navbar-fixed {
+  margin: 0;
+}
+
+.nav-wrapper {
+  color: darkblue;
+}
+

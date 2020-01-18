@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+
+h3 {
+  color: black;
+}
+
+.card {
+  clear: both;
+  margin: 10px auto;
+}
+
+.github-image {
+  clear: both;
+  width: 40px;
+  height: auto;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+.github-text {
+  float: left;
+}

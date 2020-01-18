@@ -1,0 +1,25 @@
+.firstName {
+  background-color: white;
+  color: white
+}
+
+form {
+  clear: both;
+}
+
+form > label {
+  color: white;
+}
+
+form > input {
+  background: white;
+  color: black;
+}
+
+form > textarea {
+  background: white
+}
+
+form > button {
+  color: white;
+}
