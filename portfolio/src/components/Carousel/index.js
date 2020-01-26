@@ -15,7 +15,7 @@ class WorkCarousel extends Component {
     return (
       <div className="carouselbody">
         <Carousel>
-          <a className="carousel-link" href={'https://samsmeyer17.github.io/TriviaGame/'} style={style}>
+          <a className="carousel-link" href={'https://samsmeyer17.github.io/flash-trivia/'} style={style}>
             <img alt="Flash Trivia" src='https://res.cloudinary.com/teepublic/image/private/s--jeoVrKe8--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_630,q_90,w_630/v1446245482/production/designs/301566_1.jpg'>
             </img>
             
