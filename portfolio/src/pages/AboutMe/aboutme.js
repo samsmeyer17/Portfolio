@@ -18,11 +18,15 @@ const style3 = {
   float: 'left'
 }
 
+const containerStyle = {
+  margin: "0 auto"
+}
+
 function AboutMe() {
   return (
     <div>
       <Header />
-      <div className="container">
+      <div className="container" style={containerStyle}>
         <div className="row">
           <div className='col-12'>
             <h2 style={style2}><strong>About Me</strong></h2>

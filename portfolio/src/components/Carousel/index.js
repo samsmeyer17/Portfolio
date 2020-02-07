@@ -30,11 +30,6 @@ class WorkCarousel extends Component {
             </img>
             
           </a>
-          <a className="carousel-link" href={"https://samsmeyer17.github.io/Crystal-Collector/"}>
-            <img alt="" src='https://live.staticflickr.com/40/91712256_1d4fdc3f04_b.jpg'>
-            </img>
-            
-          </a>
 
         </Carousel>
       </div>

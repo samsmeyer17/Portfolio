@@ -14,7 +14,6 @@ function Header() {
           <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li><a href="/portfolio">Portfolio</a></li>
             <li><a href="/contact">Contact</a></li>
-            <li><a href="/links">Links</a></li>
           </ul>
         </div>
       </nav>
