@@ -4,18 +4,18 @@ import Footer from '../../components/Footer';
 import image from '../../images/IMG_1619.jpg'
 
 const imageStyle = {
-  clear: 'both',
-  float: 'left',
   width: '500px',
-  height: 'auto'
+  height: 'auto',
+  clear: 'both',
 }
 
 const style2 = {
-  margin: "20px 0",
+  clear: 'both',
+  margin: "20px 0"
 }
 
 const style3 = {
-  float: 'left'
+  clear: 'both'
 }
 
 const containerStyle = {
